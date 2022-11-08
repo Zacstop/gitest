@@ -1,6 +1,7 @@
-function Bottom() {
-    return <>
-        123123</>
+import React from "react";
+
+function bottom() {
+  return <div>bottom</div>;
 }
 
-export default Bottom;
+export default bottom;
